@@ -107,10 +107,10 @@
                     ]
                 ],
                 "type": "LineString"
+                "color": "#3388ff"
             },
             "properties": {
                 "name": "Fiambala"
-                "color": "#3388ff"
             },
             "type": "Feature"
         },
