@@ -110,8 +110,7 @@
             },
             "properties": {
                 "name": "Fiambala",
-                "color": '#DD33FF',
-                "fill": '#DD33FF'
+                "color": '#DD33FF'
             },
             "type": "Feature"
         },
