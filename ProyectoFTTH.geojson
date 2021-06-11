@@ -224,22 +224,6 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -67.62549677552501,
-          -27.69211539311362
-        ]
-      },
-      "properties": {
-        "marker-symbol": "triangle",
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "name": "Poste 01"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
         "type": "LineString",
         "coordinates": [
           [
