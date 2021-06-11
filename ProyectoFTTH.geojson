@@ -233,7 +233,7 @@
       "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
-        "marker-symbol": "star-stroked",
+        "iconUrl": "https://i.imgur.com/Q54ueuO.png",
         "name": "Poste 01"
       }
     },
